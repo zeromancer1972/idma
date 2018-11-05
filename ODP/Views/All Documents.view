@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='view' xmlns='http://www.lotus.com/dxl' version='9.0'
+ maintenanceversion='1.7' replicaid='C125833900616C06'>
+<noteinfo noteid='11a' unid='8FA9EBA58E110489C125833900616C08' sequence='11'>
+<created><datetime>20181102T184406,48+01</datetime></created>
+<modified><datetime>20181102T200046,77+01</datetime></modified>
+<revised><datetime>20181102T200046,76+01</datetime></revised>
+<lastaccessed><datetime>20181102T200046,76+01</datetime></lastaccessed>
+<addedtofile><datetime>20181102T184406,50+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Oliver Busse/O=DEV-We4IT</name></updatedby>
+<wassignedby><name>CN=Oliver Busse/O=DEV-We4IT</name></wassignedby>
+<item name='$FormulaClass'><text>1</text></item>
+<item name='$TITLE' sign='true'><text>All Documents</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+QAACAAwAAgAkMWkAAwAFACYAIgAEAAcAAgAJAAQAc3ViamVjdCQxJENvbmZsaWN0JFJFRgQABAAA
+AAgAZgADAA==
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+HQACAABEgWYAAAAHAIFmAAcAAgBzdWJqZWN0JDE=
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQACAAMACAAAAFZDBQAHAAcAAAAAAKMAAQAADgAAAAAAAAAAAAICAAAAVkMFAAIABwAOAAAAXAAB
+AAAOAQAAAAAAAAAAAgIAAABzdWJqZWN0U3ViamVjdCQxQ3JlYXRlZA4AAgAMAAIAJDFpAAMAJgAB
+AAAAAQEACQEAAAoBAQ4KAAABAK0rAQABAAEAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAAAAAAAAAA
+AAAEgAAAAAD//wAAAAAAAAAAAAAAAAAAV0MBAQAJAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAA//8A
+AAAAAAAAAAAAAAAAAEIAEAAAAAEA////AAUA////AAEAAAAAAAAAAAAAAAAAAQD///8AAQD///8A
+AAABAAAAAAABAAAAAAABAAAAAAAAAAgAAAAAAAEAWEMATIADAAAAAAABAgICAQEBAQcEAwAAAAAA
+AAAAIC4uOmFDVAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Flags'><text>Y</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$V5ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRw/AAAAAQABAAAAAQAAAAAAAAAAAAAACAACAHn/bAABAPDw8AABAAAAAAAJAAAAAAABAPDw8AAA
+AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=
+</rawitemdata></item></note>
+

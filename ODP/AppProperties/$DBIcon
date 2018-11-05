@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.7'
+ replicaid='C125833900616C06'>
+<noteinfo noteid='1aa' unid='7FFDB023DD488562C125833900676A07' sequence='1'>
+<created><datetime>20181102T194933,51+01</datetime></created>
+<modified><datetime>20181102T194933,74+01</datetime></modified>
+<revised><datetime>20181102T194933,73+01</datetime></revised>
+<lastaccessed><datetime>20181102T194933,73+01</datetime></lastaccessed>
+<addedtofile><datetime>20181102T194933,73+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Oliver Busse/O=DEV-We4IT</name></updatedby>
+<wassignedby><name>CN=Oliver Busse/O=DEV-We4IT</name></wassignedby>
+<item name='$TITLE'><text>$DBIcon</text></item>
+<item name='$Flags'><text>34Ci~Q</text></item>
+<item name='$ImagesWide' sign='true'><number>1</number></item>
+<item name='$ImagesHigh' sign='true'><number>1</number></item>
+<item name='$ImagesColorize' sign='true'><number>0</number></item>
+<item name='$FileSize' sign='true'><number>488</number></item>
+<item name='$ImageData' sign='true'>
+<rawitemdata type='1'>
+mQAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAH0AHAAAAAIAAAAAAOgBAAABAAAAAQAAAAAAAAB8
+APIBAADoAegBiVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4AAAABHNCSVQICAgIfAhk
+iAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAYpJREFUSInt1bFOVEEUxvHfrgkgiEIBxRJQEmENhSQg
+JcQaK1sSn8BAosaH0Acg4SUkFPIA0iIYaXYlLgtBCyg024AUQjFzs3hdgmF3EzB8yRT33pnvnJk5
+/3O56srUeDeIKYxhGHfRg060xDlHqGAfOyhiDR9QrhWoE6+wgeM6x2e8wK1kBxNYRN+pgEUsYxWb
++I6fOIwmreiKa4bwCNN4cMpjF09hK5XBszOO7jxlMJPyKmVxLzXx9wXME91IPQ9mYqS0NvEeH/FF
+OKIfOIjfb6IbOeQxjie4nzY6K0DDlG2meRKg0ET/EjzEV/XXf3qUBVgRLu25QGO9xuuYjZ4yeIfX
+cReEyniMUYwIMOXQERdlBeAq2BNaRUG1VexGn2G8EaMeYl4ot4tAlijpDAv4heNaZfoNKzGjIrZj
+ppWYCLThDnqFZpgXznsy7vaPiFefg60m+pcIF7ujyRy0Yw6fGmD8FwdLeKnKQb/qLzOPAaFabgvV
+w79z8JZrDs7RNQeXg4O0GsXBf6ITdKryy0plxxcAAAAASUVORK5CYII=
+</rawitemdata></item>
+<item name='$MimeType' sign='true'><text>image/png</text></item>
+<item name='$FileModDT' sign='true'><datetime>20181102T194909,00+01</datetime></item>
+<item name='$ImageNames' sign='true'><text>\\tsclient\oliver\Desktop\if_database_298757.png</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+
